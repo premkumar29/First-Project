@@ -1,0 +1,62 @@
+body {
+    background-color:hsl(233, 47%, 7%);
+    font-size: 15px;
+    
+    ;
+}
+
+.head{
+    background-color:hsl(244, 38%, 16%) ;
+    font-align:center;
+ }
+
+p{
+    line-height: 0.5rem;
+    padding-top: 0rem;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    color:grey;
+}
+h1{
+    line-height:2rem;
+    padding-top: 0.5rem;
+    font-family: Inter;
+    font-weight: 400, 700;
+
+}
+.head{
+    color:#fff;
+    padding:0rem;
+    margin-top: 8rem;
+    margin-bottom:8rem;
+    
+   
+}
+.num{
+    font-size:1.5rem;
+}
+.rate{
+   
+}
+.ab{
+    margin-right:3rem;
+    padding-top: 3rem;
+
+}
+.ab1{
+   
+}
+    
+
+.title-img{
+    width:36rem;
+}
+   
+
+.pad{
+    padding-top: 3rem;
+    padding-left: 5rem;
+}
+span{
+    color:hsl(277, 64%, 61%)
+}
